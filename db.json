@@ -1,11 +1,12 @@
 {
-  "posts": [
+  "buku": [
     {
-      "id": 1,
-      "title": "hello"
+      "isbn": 1,
+      "judul": "Pemrograman Android",
+      "pengarang": "Pak Budi"
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "profil": {
+    "nama": "Json-Server"
   }
 }
